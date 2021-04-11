@@ -8,8 +8,8 @@ Covid 19 Risk Assessment
 It uses the Deterministic finite automaton in which the system evaluates every condition in determining if the person has a high risk of having contract with the Covid 19 virus.
 
 # States
-Q1: Close contact with covid patient? \n
-Q2: Is the contact longer than 15 mins? \n
+Q1: Close contact with covid patient? /n
+Q2: Is the contact longer than 15 mins? /n
 Q3: Was the person wearing a mask?
 Q4: Were you wearing a mask?
 Q5: Experienced any symptoms?
