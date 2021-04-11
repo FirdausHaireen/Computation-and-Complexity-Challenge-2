@@ -8,13 +8,13 @@ Covid 19 Risk Assessment
 It uses the Deterministic finite automaton in which the system evaluates every condition in determining if the person has a high risk of having contract with the Covid 19 virus.
 
 # States
-Q1: Close contact with covid patient? /n
-Q2: Is the contact longer than 15 mins? /n
-Q3: Was the person wearing a mask?
-Q4: Were you wearing a mask?
-Q5: Experienced any symptoms?
-Q6: Quarantine (High Risk)
-Q7: No Quarantine (Low Risk)
+1. Q1: Close contact with covid patient? /n
+2. Q2: Is the contact longer than 15 mins? /n
+3. Q3: Was the person wearing a mask?
+4. Q4: Were you wearing a mask?
+5. Q5: Experienced any symptoms?
+6. Q6: Quarantine (High Risk)
+7. Q7: No Quarantine (Low Risk)
 
 # State transition table:
 STATE  1     	   0
