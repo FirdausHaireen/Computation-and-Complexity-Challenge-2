@@ -26,5 +26,5 @@ It uses the Deterministic finite automaton in which the system evaluates every c
 In this main fucntion, it will 
 
 # Examples of input strings
-Accepted (Will Quarantine): Y -> Y -> N -> N -> Y
+<br>Accepted (Will Quarantine): Y -> Y -> N -> N -> Y</br>
 Rejected (Will Not Quarantine): Y -> Y -> Y
